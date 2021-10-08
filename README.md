@@ -3,7 +3,7 @@
 # Hello! I am Laura Castilho
 I'm a self-taught passionate full stack developer from São Paulo, Brazil. blablabla
   
-#### How to reach me
+#### Reach me on
 <div> 
   <a href = "mailto:laura.andrade.castilho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/laura-castilho-a7a0b21b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
