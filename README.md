@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hello! I am Laura Castilho
+# Hello! I am Laura Castilho 🙃
   
   #### About me
   I'm a 17-year-old full stack developer from São Paulo, Brazil. I am a patient, observant and organized person. 
