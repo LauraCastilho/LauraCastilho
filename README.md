@@ -9,7 +9,7 @@
   
   #### About my education and work
   Currently, I'm studying web development integrated into high school and working as  <br>  a junior programmer at a company called Tecnologia Única in São Paulo.  <br> I mainly use C#, SQL, HTML, CSS, Asp.net MVC, object oriented programming and JavaScript. <br>
-  I still have a lot to learn but "Nothing is particularly hard if you divide it into small jobs" *- Henry Ford*.
+  I still have a lot to learn but as Henry Ford once said "Nothing is particularly hard if you divide it into small jobs".
   
 #### Reach me on
 <div> 
