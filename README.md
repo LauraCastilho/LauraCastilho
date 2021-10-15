@@ -13,7 +13,7 @@
   
 #### Reach me on
 <div> 
-  <a href = "mailto:laura.andrade.castilho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCHrkVmDFhQbZdfNJbzqCwCmDmcZNKTdTfsDKmJtCTvnjmDHXbHJCJWnFWKNBpXJqMBgxsWg"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/laura-castilho-a7a0b21b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://wa.me/5511996290434" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
