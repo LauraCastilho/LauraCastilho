@@ -3,13 +3,10 @@
 # Hello! I am Laura Castilho 🙃
   
   #### About me
-  I'm a 18-year-old full stack developer from São Paulo, Brazil. I am a patient, observant and organized person. 
-  <br> I really enjoy watching series, studying English and programming, playing guitar and listening to music.
-  <br> My biggest dreams are traveling the world, learning to surf, backpacking and volunteering, skydiving and swimming with sharks. <br> I love spending time with my family and friends. I like to exchange ideas with people and I love to learn new things.
+  I'm a 21-year-old full stack developer from São Paulo, Brazil. I am a patient, observant and organized person. 
   
   #### About my education and work
   I studied web development integrated into high school and I am working as  <br>  a junior programmer at a company called Tecnologia Única in São Paulo.  <br> I mainly use C#, SQL, HTML, CSS, Asp.net MVC, object oriented programming and JavaScript. <br>
-  I still have a lot to learn but as Henry Ford once said "Nothing is particularly hard if you divide it into small jobs".
   
 #### Reach me on
 <div> 
