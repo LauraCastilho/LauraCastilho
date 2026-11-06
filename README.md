@@ -16,7 +16,8 @@ payment flows and integrations with financial institutions. Currently studying *
 ## 🛠️ Tech Stack
 
 **Backend & Data**<br>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,mysql" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,mongodb" />
+<img src="assets/sqlserver.svg" width="48" alt="SQL Server" />
 
 **Frontend**<br>
 <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
@@ -34,6 +35,7 @@ payment flows and integrations with financial institutions. Currently studying *
 
 - **Tecnologia Única** — Mid-level Developer (2025 – now) · Junior Developer (2021 – 2025) · Intern (2020 – 2021)
 - **FIAP** — Artificial Intelligence (2025 – 2027): ML, Generative AI, NLP, Computer Vision, IoT
+- **ETEC** — Web Development technical course (2019 – 2021): HTML, CSS, JavaScript, Bootstrap, UX/UI, SQL, Git & GitHub, team projects
 - 🌎 English (advanced) · Spanish (intermediate)
 
 ## 🐍 Activity
